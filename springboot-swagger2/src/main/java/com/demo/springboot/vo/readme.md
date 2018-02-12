@@ -1,0 +1,1 @@
+vo下存放接口的出入参POJO,可以与entity相同，也可以是entity的扩展
